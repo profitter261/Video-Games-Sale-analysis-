@@ -29,7 +29,7 @@ Key insights include:
 
 ## 🖼️ Preview
 
-![Dashboard Preview](./dashboard_preview.png)
+![Dashboard Preview](./Screenshot 2025-08-02 192201.png)
 
 ---
 

@@ -29,7 +29,7 @@ Key insights include:
 
 ## 🖼️ Preview
 
-![Dashboard Preview](./Screenshot 2025-08-02 192201.png)
+![Dashboard Preview](https://github.com/profitter261/Video-Games-Sale-analysis-/blob/main/Screenshot%202025-08-02%20192201.png)
 
 ---
 

@@ -53,7 +53,7 @@ Key insights include:
 ## 📁 Dataset
 
 - Games Dataset: [https://github.com/profitter261/Video-Games-Sale-analysis-/blob/main/Datasets/games.csv]
-- Vgsales Dataset: [https://github.com/profitter261/Video-Games-Sale-analysis-/blob/main/Datasets/vgsales%20(1).csv]  
+- Vgsales Dataset: [https://github.com/profitter261/Video-Games-Sale-analysis-/blob/main/Datasets/vgsales.csv]  
 - Cleaned and preprocessed before import to Power BI
 
 ---
